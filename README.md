@@ -7,7 +7,8 @@ Scenario:
 	• She decides a goal with a deadline - for example - I wish to reduce my weight by 20 pounds in 6 weeks (min 1 week).
 	• She creates a list of activities for a time quantum (min 1 day) - for example - exercise for 30 minutes every day.
 		○ Bonus - ability to do priority - Must, Nice-to-have, Bonanza and I-am-feeling-good
-	• She will get to choose weightage for achievements - for example - 10 minutes exercise - 1 point, 20 minutes - 2 points, 25 minutes - 3 points, 27 minutes - 4 points and 30 minutes - 5 points
+	• She will get to choose weightage for achievements - for example - 10 minutes exercise - 1 point, 20 minutes - 2 points, 
+	  25 minutes - 3 points, 27 minutes - 4 points and 30 minutes - 5 points
 	• She then shares the list and weightage with one (or multiple) friends on the application.
 	• Other app user friend(s) will do the same.
 	• They mutually lock-down on the plan.
